@@ -1,0 +1,19 @@
+body {
+	background-image: url("https://wallpaperaccess.com/full/3878351.jpg");
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size:100% 100%;
+}
+
+.boldText {
+	font-weight: bold;
+}
+
+.greyedText {
+	font-weight: lighter;
+	color: grey;
+}
+
+.roundedCorners{
+	border-radius: 25px;
+}
